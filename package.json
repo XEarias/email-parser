@@ -1,0 +1,15 @@
+{
+    "name": "email-parser",
+    "version": "0.0.1",
+    "description": "Simple email parser",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/XEarias/email-parser.git"
+    },
+    "keywords": [
+      "Go",
+      "csv"
+    ],
+    "author": "Xavier Arias",
+    "license": "MIT"
+  
